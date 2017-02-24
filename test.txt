@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is B64B-C65E
+
+ Directory of C:\Users\Administrator\Desktop\Java Project
+
+02/23/2017  11:32 PM    <DIR>          .
+02/23/2017  11:32 PM    <DIR>          ..
+02/23/2017  10:29 PM               470 default.html
+02/22/2017  03:28 AM               474 Hello.class
+02/22/2017  03:12 AM               196 Hello.java
+02/23/2017  11:32 PM                 0 test.txt
+               4 File(s)          1,140 bytes
+               2 Dir(s)  10,430,636,032 bytes free
